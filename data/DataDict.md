@@ -1,6 +1,6 @@
 # Problem 1 and 2 Files
 
-Applies to: `star1.csv`, `star2.csv`, `star3.csv`, `star4.csv`, `star5.csv`, `speedstar.csv`
+Applies to: `star1.csv`, `star2.csv`, `star3.csv`, and `speedstar.csv`
 
 | Column Name     | Unit                 | Description                                         |
 |-----------------|----------------------|-----------------------------------------------------|
